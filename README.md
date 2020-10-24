@@ -1,1 +1,2 @@
-# console-jekyll-theme
+# Console
+A Jekyll theme.
